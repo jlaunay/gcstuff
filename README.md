@@ -1,2 +1,2 @@
 # gcstuff
-Goldencheetah stuff
+Charts for goldencheetah
